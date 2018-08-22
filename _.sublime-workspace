@@ -1,0 +1,1058 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"App",
+				"AppGreeting.vue"
+			],
+			[
+				"Q",
+				"Queen-of-Heaven"
+			],
+			[
+				"e",
+				"e\te.target.value"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"d",
+				"done\t(App.vue)"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"add",
+				"add\taddEventListener(..)"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"time",
+				"timeout\tsetTimeout function"
+			],
+			[
+				"ch",
+				"checkedNow"
+			],
+			[
+				"val",
+				"validateForm"
+			],
+			[
+				"choo",
+				"chooseRadioBtn"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"inner",
+				"inner_page_service.html\t(index.html)"
+			],
+			[
+				"sorterResult",
+				"sorter__result-reverse\t(style.sass)"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"soc",
+				"social-links__ico\t(index.html)"
+			],
+			[
+				"fil",
+				"filter__hotel-service\t(index.html)"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"header__drop",
+				"header__dropdown-menu_open\t(index.html)"
+			],
+			[
+				"tex",
+				"text-align\t(style.sass)"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"col-md-",
+				"col-md-5"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"in",
+				"inherit\t(_reset.sass)"
+			],
+			[
+				"ve",
+				"vertical-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"m",
+				"margin\t(_reset.sass)"
+			],
+			[
+				"min",
+				"min-width\t(style.sass)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"s",
+				"Star.svg"
+			],
+			[
+				"Fi",
+				"Five-Stars.svg"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"inlin",
+				"inline-block\t(main.css)"
+			],
+			[
+				"sp",
+				"sprite-social-icons-footer.png\tw:93 h:17"
+			],
+			[
+				"S",
+				"Speach-Bubbles.svg"
+			],
+			[
+				"svg",
+				"svg/"
+			],
+			[
+				"clea",
+				"clear-fix"
+			],
+			[
+				"bo",
+				"box-pack\t(style.css)"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"clearfix",
+				"clear-fix-line\t(index.html)"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"gr",
+				"grey_x.png"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"space",
+				"space-between\t(style.css)"
+			],
+			[
+				"jus",
+				"justify-content\t(style.css)"
+			],
+			[
+				"top",
+				"top-slider"
+			],
+			[
+				"inline",
+				"inline-block\t(style.css)"
+			],
+			[
+				"header__",
+				"header__search\t(index.html)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlne",
+				"inline-block"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".eslintrc.json",
+			"settings":
+			{
+				"buffer_size": 913,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 924,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 2121,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 166,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 132,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "resou",
+		"selected_items":
+		[
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if … else"
+			],
+			[
+				"p",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sublimerge",
+				"Sublimerge: List and Resolve Conflicts..."
+			],
+			[
+				"co",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Development/_start-template_webpack+vue"
+	],
+	"file_history":
+	[
+		"/E/Development/dilis-cosmetic/app/sass/style.sass",
+		"/E/Development/dilis-cosmetic/package-lock.json",
+		"/E/Development/dilis-cosmetic/package.json",
+		"/E/Development/simbirsoft-TZ/index.html",
+		"/E/Development/dilis-cosmetic/.eslintrc.json",
+		"/E/Development/simbirsoft-TZ/.jshintrc",
+		"/E/Development/simbirsoft-TZ/.eslintrc.json",
+		"/E/Development/simbirsoft-TZ/.eslintrc.js",
+		"/E/Development/vue-test/src/App.vue",
+		"/E/Development/vue-test/src/components/AppNextQuestionBtn.vue",
+		"/E/Development/vue-test/src/components/AppResultsTable.vue",
+		"/E/Development/vue-test/src/components/AppAnswers.vue",
+		"/E/Development/vue-test/src/components/E404.vue",
+		"/E/Development/vue-test/src/components/AppTitle.vue",
+		"/E/Development/vue-test/src/components/AppGreeting.vue",
+		"/E/Development/vue-test/src/store/index.js",
+		"/E/Development/vue-test/src/routes.js",
+		"/E/Development/vue-test/src/main.js",
+		"/E/Development/vue-test/index.html",
+		"/E/Development/vue-test/package.json",
+		"/E/Development/vue-test/webpack.config.js",
+		"/E/Development/dilis-cosmetic/.jshintrc",
+		"/E/Development/dilis-cosmetic/app/index.html",
+		"/E/meta/index.html",
+		"/E/Development/dilis-cosmetic/app/sass/_reset.sass",
+		"/E/Development/dilis-cosmetic/app/sass/_vars.sass",
+		"/E/Development/dilis-cosmetic/app/sass/_media-queries.sass",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/CSS/CSS.sublime-syntax",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/Sass/Syntaxes/Sass.sublime-syntax",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/e_target_value.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/console_log.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/add_event_listener.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Snippets/Get-Elements.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Snippets/setTimeout-function.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Snippets/if-___-else.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Snippets/if.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Snippets/function-(fun).sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Snippets/for-()-{}.sublime-snippet",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/JavaScript/Snippets/for-()-{}-(faster).sublime-snippet",
+		"/E/Development/vue-test/DZ-3/dist/build.js",
+		"/E/Development/vue-test/dist/build.js",
+		"/E/Development/vue-test/src/components/ResultsTable.vue",
+		"/E/Development/vue-test/css/main.min.css",
+		"/E/Development/vue-test/css/styles.css",
+		"/E/Development/vue-test/DZ-1/index.html",
+		"/E/Development/vue-test/DZ-2/n_hw_1_form.html",
+		"/E/Development/vue-test/DZ-2/n_hw_2_scroll.html",
+		"/E/Development/vue-test/app/js/common-es6.js",
+		"/E/Development/vue-test/app/index.html",
+		"/E/Development/vue-test/DZ-1/js/common-es6.js",
+		"/E/Development/DZ-2/n_hw_1_form.html",
+		"/E/Development/DZ-2/n_hw_2_scroll.html",
+		"/E/Development/vue-test/app/js/vue.js",
+		"/E/Development/vue-test/app/sass/_reset.sass",
+		"/E/Development/vue-test/app/sass/style.sass",
+		"/E/Development/vue-test/app/css/bootstrap.min.css",
+		"/E/Development/dilis-cosmetic/app/js/common-es6.js",
+		"/E/Development/_start-template_webpack/webpack.config.js",
+		"/E/Development/_start-template_webpack/package.json",
+		"/E/Development/TZ/app/js/common-es6.js",
+		"/E/Development/TZ/app/sass/_media-queries.sass",
+		"/E/Development/TZ/app/sass/_vars.sass",
+		"/E/Development/TZ/app/sass/_reset.sass",
+		"/E/Development/TZ/app/sass/style.sass",
+		"/E/Development/TZ/app/index.html",
+		"/E/Development/XAMPP/htdocs/WP-project-1/wp-config.php",
+		"/E/Development/_start-template_gulp/package.json",
+		"/E/Development/XAMPP/htdocs/WP-project-1/wp-content/themes/bulk-shop/functions.php",
+		"/E/Development/_start-template_gulp/gulpfile.js",
+		"/E/Development/XAMPP/htdocs/dashboard/index.html",
+		"/E/Development/git-test/index.html",
+		"/E/Development/TZ/app/svg/baseline-warning-24px.svg",
+		"/E/Development/_temporal-recycling/package.json",
+		"/E/Development/TZ/package.json",
+		"/E/Development/TZ/package-lock.json",
+		"/E/Development/TZ/app/sass/_animations.sass",
+		"/E/Development/_temporal-recycling/app/js/common-es6.js",
+		"/E/Development/_temporal-recycling/app/sass/_media-queries.sass",
+		"/E/Development/_temporal-recycling/app/sass/style.sass",
+		"/E/Development/XAMPP/htdocs/test-site/index.php",
+		"/E/Development/_temporal-recycling/app/index.html",
+		"/C/Users/Acromyon/AppData/Roaming/Skype/My Skype Received Files/Для рекламы Яндекс.txt",
+		"/E/Downloads/Native.Instruments.FM8.v1.4.0.Update-R2R/R2R.txt",
+		"/E/Development/XAMPP/htdocs/test_site/index.php",
+		"/E/Development/git_test/index.html",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-macro",
+		"/E/Development/_temporal-recycling/app/css/main.css",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter (old).sublime-settings",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/ColorHelper/color_helper.sublime-settings",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Acromyon/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/E/Development/_temporal-recycling/app/sass/_reset.sass",
+		"/E/Development/_strart-tamplate_html-letter/letter/sass/styles.sass",
+		"/E/Development/_strart-tamplate_html-letter/letter/index.html",
+		"/E/Development/_strart-tamplate_html-letter/letter/sass/settings/_settings.scss",
+		"/E/Development/_strart-tamplate_html-letter/gulpfile.js",
+		"/E/Development/00111g.txt",
+		"/E/Development/_strart-tamplate_html-letter/letter/sass/grid/_grid.scss",
+		"/E/Development/_strart-tamplate_html-letter/letter/sass/grid/_block-grid.scss",
+		"/E/Development/_strart-tamplate_html-letter/letter/sass/_foundation.scss",
+		"/E/Development/_start-template_gulp/app/sass/_vars.sass",
+		"/E/Development/_strart-tamplate_html-letter/letter/templates/basic.html",
+		"/E/Development/_strart-tamplate_html-letter/dist/basic.html",
+		"/E/Development/_strart-tamplate_html-letter/letter/sass/styles.scss",
+		"/E/Development/_strart-tamplate_html-letter/letter/css/styles.css",
+		"/E/Development/_strart-tamplate_html-letter/dist/styles.css",
+		"/E/Development/_strart-tamplate_html-letter/package.json",
+		"/E/Development/_finished/borna/sass/style.sass",
+		"/E/Development/_temporal-recycling/app/inner_page_service.html",
+		"/E/Development/_temporal-recycling/gulpfile.js",
+		"/E/Development/_finished/borna/index.html",
+		"/E/Development/_finished/borna/inner_page_service.html",
+		"/E/Development/_finished/simply_travel/css/font-awesome.min.css",
+		"/E/Development/_finished/unique-tech/css/font-awesome.min.css",
+		"/E/Development/_finished/unique-tech/index.html",
+		"/E/Development/_temporal-recycling/app/css/font-awesome.min.css",
+		"/E/Development/_temporal-recycling/app/css/bootstrap-custom.min.css",
+		"/E/Development/_start-template_gulp/app/css/bootstrap-custom.min.css",
+		"/E/Development/_temporal-recycling/app/sass/_vars.sass",
+		"/E/Development/_start-template_gulp/app/js/common-es6.js",
+		"/E/Development/_start-template_gulp/app/js/common.min.js",
+		"/E/Development/_start-template_gulp/app/css/main.min.css",
+		"/E/Development/_start-template_gulp/app/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"v-model",
+			"AppResultsTable",
+			"\t\t<",
+			"\">\n",
+			"text",
+			"/';\n",
+			"\t\n",
+			"{\n\t\tpath: 'some-url',\n\t\tcomponent: ComponentName\n\t},",
+			"import App from './App.vue'",
+			"display",
+			">\n",
+			"mounted",
+			".$",
+			"\"",
+			"WP_POST_REVISIONS",
+			"www.",
+			"</i>",
+			"<i>",
+			"</b>",
+			"<b>",
+			"<img src=\"\" alt=\"\" />",
+			" class=\"something\"",
+			"</Ul>",
+			"<Ul>",
+			"</LI>",
+			"<LI>",
+			"    ",
+			")\n",
+			"    ",
+			"text",
+			"Some text",
+			"transition",
+			"<p class=\"text-block__text\">Sie sind als Kunde der Stadtwerke Düsseldorf mit uns zufrieden? Dann sind wir Ihre Empfehlung wert. Egal ob in Düsseldorf oder außerhalb: Erzählen Sie Familie und Freunden von uns. Wir sind als Partner rund um das Thema Energie stets eine gute Wahl. Ein schneller Überblick über unser Strom- und Erdgasangebot ist ganz einfach - je Postleitzahl - über unseren Online-Preisrechner möglich.</p>",
+			"1170",
+			"right: 0",
+			"fff",
+			"</i>",
+			"mega-menu__block",
+			"footer",
+			"0.",
+			"<i",
+			"900",
+			"font-family: Frutiger",
+			"BOLD",
+			"fadeIn",
+			"generator",
+			"zoom",
+			"hidden",
+			"container",
+			"#d1d1d1",
+			"reviews",
+			"140px",
+			"lenght",
+			".col",
+			".row",
+			".col",
+			".row",
+			"row",
+			"href=\"\"",
+			"a href=\"\"",
+			"hidden",
+			"calss",
+			".row",
+			"header__slider-track",
+			".prev",
+			"1rem",
+			"600",
+			"2px",
+			"164px",
+			"feedback",
+			">\n",
+			"!</",
+			" Какойто текс!",
+			"Какойто текс!",
+			"%;",
+			"height",
+			"_x",
+			"rbm",
+			"selection",
+			"vertical",
+			"ctrl+rbm",
+			"ctrl+r",
+			"poly",
+			"wrap",
+			"0",
+			"6px",
+			"%\n",
+			"16px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"",
+			"</em>",
+			"<em>",
+			"</strong>",
+			"<strong>",
+			"<img src=\"\" alt=\"\">",
+			"",
+			"</ul>",
+			"<ul>",
+			"</li>",
+			"<li>",
+			"\t",
+			"mega-menu__sub-block",
+			"mega-menu",
+			"700",
+			"sorter",
+			"#e3e3e3",
+			"search-result",
+			"href=\"#\"",
+			"a href=\"#\"",
+			"class",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".eslintrc.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.19.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.21.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"SL.16.region_keys":
+							[
+							],
+							"SL.55.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+								"SL.eslint.Highlights.|1a0b593e5091a020f44bf06f307b522c6f64e34b6d8d6f5023915c444c39a16f|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|06abe2ca0c45f4964c08959c86e1a062df29aa799a0170d7534f4b3de52dc5c0|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Highlights.|7d2b5e5960bcec87b4342561a629e36b00c78cba828c72291aa754982dece729|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|23b97fa9b2c0a731cf2141a49c4c325bcff2d4e7644066bf2c91447840475a98|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|209755924967276682dc65bc7910357bfb7f3b5a932d117d731c9b31abbf01b4|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|dc7bd5aea6e9650fad75a62f4f161137deac156a04c855f65278d351abc5b2df|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|22160a5d763074e6037451ac62abbc1586cb36fed7e91add7f9cac9b9fdc1ae2|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Highlights.|285708ea6c2a86ce1136295dfd10fc16e4773ba73381cbd9d305b2da9b1395f0|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.17.region_keys":
+							[
+								"SL.eslint.Highlights.|209755924967276682dc65bc7910357bfb7f3b5a932d117d731c9b31abbf01b4|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.56.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"SL.26.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|8dc093f7d4ef01e28290a27f7ebd578d178ff69835e2af4fdc5a1ee8b382ae3a|region.redish markup.error.sublime_linter|32"
+							],
+							"SL.19.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.20.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.21.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.58.region_keys":
+							[
+							],
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.20.region_keys":
+							[
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"SL.eslint.Highlights.|dc26ec319a3a2d7a1aa539ea3fbaf264af63e55f33ec7cb34813b5f8213a80b0|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.21.region_keys":
+							[
+								"SL.eslint.Highlights.|dc26ec319a3a2d7a1aa539ea3fbaf264af63e55f33ec7cb34813b5f8213a80b0|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.59.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "_.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Development\\simbirsoft-TZ\\_simbirsoft-TZ.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
